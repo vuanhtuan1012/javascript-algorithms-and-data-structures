@@ -2,6 +2,17 @@
 
 Notes on Javascript Algorithms and Data Structures at [freeCodeCamp](https://www.freecodecamp.org/learn).
 
+- [x] [Basic Javascript](#1-basic-javascript)
+- [ ] ES6
+- [ ] Regular Expressions
+- [ ] Debugging
+- [ ] Basic Data Structure
+- [ ] Basic Algorithm
+- [ ] Object Oriented Programming
+- [ ] Functional Programming
+- [ ] Intermediate Algorithm Scripting
+- [ ] JavaScript Algorithms and Data Structures Projects
+
 ## 1. Basic Javascript
 
 ### 1.1 Array operators
