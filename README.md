@@ -123,7 +123,7 @@ double(3);  // return 6
 It is possible to pass more than one argument into an arrow function.
 ```js
 const multiplier = (item, multi) => item * multi;
-multiplier(4, 2); // returns 8
+multiplier(4, 2);  // returns 8
 ```
 
 #### Set default parameters to functions
@@ -131,4 +131,6 @@ multiplier(4, 2); // returns 8
 ES6 introduces default parameters for functions.
 ```js
 const  increment = (number, value=1) => number + value;
+increment(3);  // return 4
+increment(3, 2);  // return 5
 ```
