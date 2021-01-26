@@ -3,7 +3,7 @@
 Notes on Javascript Algorithms and Data Structures at [freeCodeCamp](https://www.freecodecamp.org/learn).
 
 - [x] [Basic Javascript](#1-basic-javascript)
-- [ ] ES6
+- [ ] [ES6](#2-es6)
 - [ ] Regular Expressions
 - [ ] Debugging
 - [ ] Basic Data Structure
@@ -48,12 +48,12 @@ Notes on Javascript Algorithms and Data Structures at [freeCodeCamp](https://www
 ECMAScript is a standardized version of JavaScript with the goal of unifying the language's specifications and features. As all major browsers and JavaScript-runtimes follow this specification, the term _ECMAScript_ is interchangeable with the term _JavaScript_.
 
 ECMAScript 5 (ES5) specification of the language, finalized in 2009. But JavaScript is an evolving programming language. The most recent standardized version is called ECMAScript 6 (ES6), released in 2015. This new version of the language adds some powerful features, including:
--   `let`  and  `const`
--   Arrow functions
--   Classes
--   Modules
--   Promises
--   Generators
+- [`let`  and  `const`](#21-let-and-const)
+- [Arrow functions](#22-arrow-functions)
+- Classes
+- Modules
+- Promises
+- Generators
 
 ### 2.1 `let` and `const`
 
