@@ -134,3 +134,8 @@ const  increment = (number, value=1) => number + value;
 increment(3);  // return 4
 increment(3, 2);  // return 5
 ```
+
+## Reference
+
+1. [Legacy JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+2. [JavaScript Algorithms and Data Structures (Beta)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
